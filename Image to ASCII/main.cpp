@@ -30,7 +30,8 @@ int main() {
 	const string density = "'_.-,=+:;cba!?0123456789$W#@Ñ";
 	int scale = 8;
 	
-	Mat image = imread("C:\\Users\\Adham\\OneDrive\\Pictures\\Camera Roll\\WIN_20240923_13_19_22_Pro.jpg"); // takes in the picture
+	Mat image = imread("image directory here"); // place directory of your picture inside the quotations
+	// make sure that you have 2 backslashes (\\) otherwise it won't work. example: C:\\Users\\Pictures\\photo.jpg
 	if (image.empty()) {
 		cout << "Empty Image";
 		return -1;
