@@ -4,7 +4,7 @@
 
 1. Right click the image you would like to use then click on copy as path
 2. Go into main.cpp then on line 33 insert the image path inside the quotations
-3. After each backslash (\), add another one so it's two backslashes (\\) otherwise the program won't work
+3. After each backslash (\\), add another one so it's two backslashes (\\\\) otherwise the program won't work
 4. Run the code and you will be displayed 2 images, your original image and a black and white version. Just close them if you'd like
 5. Open the project file location and a new text file named ascii will be added where you can open it and view your ASCII image
 
