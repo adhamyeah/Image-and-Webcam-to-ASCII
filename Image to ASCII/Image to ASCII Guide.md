@@ -8,9 +8,9 @@
 4. Run the code and you will be displayed 2 images, your original image and a black and white version. Just close them if you'd like
 5. Open the project file location and a new text file named ascii will be added where you can open it and view your ASCII image
 
-## Dependancies
+## Dependencies
 
-You will need to have the public library OpenCV installed on your machine for this program to work. an installation guide is provided on the README txt file
+You will need to have the public library OpenCV installed on your machine for this program to work. an installation guide is provided on the README.md file
 
 ## Extra info
 
